@@ -1,5 +1,5 @@
 var
-  words = ['hey I am an Astrologer','also Phycologist'],
+  words = ['I am an Astrologer','also Phycologist'],
   part,
   i = 0,
   offset = 0,
